@@ -2,7 +2,7 @@
 
 ## About
 
-Blackboard is a simple theme and accompanying color scheme for Sublime Text 3 including support for Gitgutter. It is mostly derived from  [original Blackboard theme for Sublime Text 2](https://github.com/edwinlunando/sublime-settings/blob/master/Blackboard%20(SL).tmTheme).
+Blackboard is a simple theme and accompanying color scheme for Sublime Text 3 including support for [GitGutter](https://github.com/jisaacks/GitGutter/). It is mostly derived from  [original Blackboard theme for Sublime Text 2](https://github.com/edwinlunando/sublime-settings/blob/master/Blackboard%20(SL).tmTheme).
 
 ![screenshot](screenshot.png)
 
