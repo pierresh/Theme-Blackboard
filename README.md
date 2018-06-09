@@ -2,13 +2,13 @@
 
 ## About
 
-Blackboard is a simple theme and accompanying color scheme for Sublime Text 2. It is mostly derived from  [Flatland](https://github.com/thinkpixellab/flatland), the right place to start for any custom theme development for Sublime. Thanks Flatland!
+Blackboard is a simple theme and accompanying color scheme for Sublime Text 3 including support for Gitgutter. It is mostly derived from  [original Blackboard theme for Sublime Text 2](https://github.com/edwinlunando/sublime-settings/blob/master/Blackboard%20(SL).tmTheme).
 
 
 ## Installation
 Blackboard is a Sublime package. To install it:
 
-1. [Download theme files](https://github.com/cfletcher1856/Theme-Blackboard/archive/master.zip)
+1. [Download theme files](https://github.com/pierresh/Theme-Blackboard/archive/master.zip)
 2. Unzip the files and copy the folder called "Theme - Blackboard" into your Sublime Text 2 Packages directory. You can find that directory by selecting "Preferences > Browse Packages ...".
 3. Activate the theme by modifying your user preferences to include the following:
 
