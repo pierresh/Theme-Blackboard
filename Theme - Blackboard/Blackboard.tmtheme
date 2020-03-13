@@ -12,6 +12,8 @@
 		<dict>
 			<key>settings</key>
 			<dict>
+				<key>line_diff_width</key>
+				<string>8</string>
 				<key>background</key>
 				<string>#0C1021</string>
 				<key>caret</key>
@@ -396,7 +398,7 @@
 		  <key>settings</key>
 		  <dict>
 		    <key>foreground</key>
-		    <string>#565656</string>
+		    <string>#f0f0f0</string>
 		  </dict>
 		</dict>
 	</array>
