@@ -401,6 +401,17 @@
 		    <string>#f0f0f0</string>
 		  </dict>
 		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Mapping Key Names</string>
+		    <key>scope</key>
+		    <string>meta.mapping.key.yaml string</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#FF6400</string>
+		    </dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>A2C6BAA7-90D0-4147-BBF5-96B0CD92D109</string>
