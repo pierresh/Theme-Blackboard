@@ -412,6 +412,72 @@
 		        <string>#FF6400</string>
 		    </dict>
 		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Mapping Key Names</string>
+		    <key>scope</key>
+		    <string>variable.function.js</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#FF6400</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Mapping Key Names</string>
+		    <key>scope</key>
+		    <string>variable.type.js</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#FF6400</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Mapping Key Names</string>
+		    <key>scope</key>
+		    <string>text.html.ngx variable.function.js</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#61ce3c</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Mapping Key Names</string>
+		    <key>scope</key>
+		    <string>meta.interpolation.ngx.html variable.function.js</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#ffffff</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Mapping Key Names</string>
+		    <key>scope</key>
+		    <string>text.html.ngx meta.group.js variable.other.readwrite.js</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#ffffff</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Typescript constructor</string>
+		    <key>scope</key>
+		    <string>entity.name.function.constructor.js</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#8DA6CE</string>
+		    </dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>A2C6BAA7-90D0-4147-BBF5-96B0CD92D109</string>
