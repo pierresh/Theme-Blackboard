@@ -6,6 +6,16 @@ Blackboard is a simple theme and accompanying color scheme for Sublime Text 3/4.
 
 ![screenshot](screenshot.png)
 
+## Main colors
+- Background `#0C1021`
+- Foreground white `#F8F8F8`
+- Selection highligthed `#253B76`
+- Blue `#8DA6CE`
+- Yellow `#FBDE2D`
+- Orange `#FF6400`
+- Green `#61CE3C`
+- Grey `#AEAEAE`
+
 ## Installation
 Blackboard is a Sublime package. To install it:
 
