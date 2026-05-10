@@ -478,6 +478,42 @@
 		        <string>#8DA6CE</string>
 		    </dict>
 		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>PHP Superglobal</string>
+		    <key>scope</key>
+		    <string>variable.language.global.php</string>
+		    <key>settings</key>
+		    <dict>
+				<key>background</key>
+				<string>#9D1E15</string>
+				<key>foreground</key>
+				<string>#F8F8F8</string>
+		    </dict>
+		</dict>
+
+        <dict>
+            <key>name</key>
+            <string>Go Function Variables</string>
+            <key>scope</key>
+            <string>variable.function.go</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#8DA6CE</string>
+            </dict>
+        </dict>
+		<dict>
+		    <key>name</key>
+		    <string>Go Anonymous Function Variables</string>
+		    <key>scope</key>
+		    <string>variable.language.anonymous.go</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#FF6400</string>
+		    </dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>A2C6BAA7-90D0-4147-BBF5-96B0CD92D109</string>
